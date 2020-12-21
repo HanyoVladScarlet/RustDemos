@@ -348,3 +348,9 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+# Rust ignore
+/target/
+**/*.rs.bk
+MyRustDemo/target/CACHEDIR.TAG
+MyRustDemo/target/.rustc_info.json

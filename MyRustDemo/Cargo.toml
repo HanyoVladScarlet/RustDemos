@@ -1,0 +1,9 @@
+[package]
+name = "MyRustDemo"
+version = "0.1.0"
+authors = ["Vladimir_Lyapunov <47584292+HanyoVladScarlet@users.noreply.github.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
